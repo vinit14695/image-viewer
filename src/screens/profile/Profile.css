@@ -1,0 +1,101 @@
+.profile-Info {
+  display: flex;
+  flex-direction: row;
+  width: 60%;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 30px;
+}
+
+.profile-img-large {
+  border-color: black;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.profile-username {
+  font-size: large;
+  font-weight: bold;
+  margin-left: 10px;
+  margin-top: 2%;
+}
+
+.profile-data {
+  margin-left: 10%;
+  margin-top: 1%;
+}
+
+.profile-stats {
+  margin-top: 1%;
+  margin-left: 1%;
+  width: 100%;
+}
+
+.counts-media {
+  margin-left: 10px;
+}
+
+.counts {
+  margin-left: 75px;
+}
+
+.profile-full-name {
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: medium;
+}
+
+.span-fab {
+  margin-left: 5px;
+}
+
+.edit-label {
+  font-size: large;
+}
+
+div.MuiCardMedia-root {
+  padding: 0px;
+}
+
+ul.MuiGridList-root {
+  padding-left: 120px;
+  padding-right: 120px;
+}
+
+.post-details {
+  width: 800px;
+  height: 70%;
+}
+
+.post-image {
+  width: 100%;
+}
+
+.post-info {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+}
+
+.post-image-div {
+  width: 50%;
+}
+
+.post-user-container {
+  width: 50%;
+  margin-left: 10px;
+}
+
+.span-user-name {
+  width: 100%;
+  margin-left: 10px;
+}
+
+.div-comments {
+  margin-top: 40%;
+}
+
+.like-counter {
+  padding-left: 10px;
+}
